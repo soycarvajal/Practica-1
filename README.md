@@ -1,2 +1,2 @@
-# Practica-1
-Pagina Web
+# Pagina Web
+Proyecto de pagina para desarrollo web
